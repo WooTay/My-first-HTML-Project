@@ -1,7 +1,29 @@
 html {
 	background-color: orange;
 }
+h1 {
+	color: white;
+}
+h2 {
+	color: white;
+}
+h3 {
+	color: green;
+}
 p {
-	color: light blue;
-	border: 2px dotted white;
+	color: red;
+	border: 2px dotted #65a7d2;
+	height: 50px;	
+}
+li {
+	color: red;
+}
+section {
+	color: red;
+}
+table {
+	color: green;
+}
+.special {
+	background-color: white;
 }
